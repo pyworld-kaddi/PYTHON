@@ -1,4 +1,4 @@
-ALL CHAPTERS SUMMARY
+ALL ABOUT CHAPTERS 
 ---------------------
 
 CHAPTER-1: getting started
