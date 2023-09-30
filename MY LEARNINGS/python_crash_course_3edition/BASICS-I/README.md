@@ -50,7 +50,8 @@ CHAPTER-2: variables and simple data types
 CHAPTER-3: Introducing lists
 
         Introduction:
-                    In this chapter and the next you’ll learn what lists are and how to start working with the elements in a list. 
+                    In this chapter and the next you’ll learn what lists are, 
+                    and how to start working with the elements in a list. 
                     Lists allow you to store sets of information in one place,
                     whether you have just a few items or millions of items. 
                     Lists are one of Python’s most powerful features readily acces-sible to new programmers, 
@@ -60,7 +61,8 @@ CHAPTER-3: Introducing lists
                     In this chapter, you learned what lists are and how to work with the indi-vidual items in a list. 
                     You learned how to define a list and how to add and remove elements. 
                     You learned how to sort lists permanently and temporar-ily for display purposes.
-                    You also learned how to find the length of a list and how to avoid index errors when you’re working with lists.
+                    You also learned how to find the length of a list,
+                    and how to avoid index errors when you’re working with lists.
                     
                     In Chapter 4 you’ll learn how to work with items in a list more efficiently.
                     By looping through each item in a list using just a few lines of code you’ll be able to work efficiently, 
