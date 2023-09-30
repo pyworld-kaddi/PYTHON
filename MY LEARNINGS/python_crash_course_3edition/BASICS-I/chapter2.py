@@ -1,4 +1,4 @@
-
+"""
 print("HELLO WORLD PYTHON!")
 
 
@@ -91,4 +91,69 @@ nostarch_url= "https://nostarch.com"
 nostarch_url = nostarch_url.removeprefix('https://')
 print(nostarch_url)
 
-#Avoiding Syntax Errors with strings
+#Avoiding Syntax Errors with strings"apostrophe"
+
+message = "one of python's strengths is its diverse community"
+print(message)
+
+message = 'one of python's strengths is its diverse community'
+print(message)
+
+#Your editor’s syntax highlighting feature should help you spot some syntax errors quickly as you write your programs.
+# If you see Python code highlighted as if it’s English or English highlighted as if it’s Python code, 
+# you probably have a mismatched quotation mark somewhere in your file.
+
+#NUMBERS
+#-------
+
+
+#integers
+print(2+3)
+print(2-3)
+print(2*3)
+print(3/2)
+print(3//2)
+print(3%2)
+print(3**2)
+print(2+3*4)
+print((2+3)*4)
+
+#float
+print(0.1+0.1)
+print(0.2-0.1)
+print(2*0.1)
+print(3*0.1)
+
+#integers and floats
+
+print(4/2)
+print(1+3.0+2.9)
+print(3.0**5)
+
+#under scores in numbers
+
+universe_age=14_000_000_000
+print(universe_age)
+
+#multiple assignment
+
+x,y,z = 1,2,3
+print(x,y,z)
+
+#constants
+
+MAX_CONNECTIONS = 5000
+
+#comments
+
+#say hello to everyone.
+print("hello python people!")
+"""
+
+# The Zen of python
+
+import this
+
+
+
+
