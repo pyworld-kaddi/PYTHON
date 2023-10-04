@@ -67,5 +67,51 @@ CHAPTER-3: Introducing lists
                     In Chapter 4 you’ll learn how to work with items in a list more efficiently.
                     By looping through each item in a list using just a few lines of code you’ll be able to work efficiently, 
                     even when your list contains thousands or millions of items.
+
+CHAPTER-4: Working with lists
+
+        Introduction:
+                    In Chapter 3 you learned how to make a simple list, 
+                    and you learned to work with the individual elements in a list.
+                    In this chapter you’ll learn how to loop through an entire list using just a few lines of code, 
+                    regardless of how long the list is. 
+                    Looping allows you to take the same action, 
+                    or set of actions, with every item in a list. 
+                    As a result, you’ll be able to work efficiently with lists of any length,
+                    including those with thousands or even millions of items.
+
+        Summary:
+                    In this chapter, you learned how to work efficiently with the elements in a list. 
+                    learned how to work through a list using a for loop, 
+                    how Python uses indentation to structure a program,
+                    and how to avoid some common indentation errors. 
+                    You learned to make simple numerical lists, 
+                    as well as a few operations you can perform on numerical lists. 
+                    You learned how to slice a list to work with a subset of items and how to copy lists properly using a slice. 
+                    You also learned about tuples, 
+                    which provide a degree of protection to a set of values that shouldn’t change, 
+                    and how to style your increasingly complex code to make it easy to read.
                     
+                    In Chapter 5, 
+                    you’ll learn to respond appropriately to different condi-tions by using if statements. You’ll learn to string together relatively complex sets of conditional tests to respond
+                    appropriately to exactly the kind of situa-tion or information you’re looking for.
+                    You’ll also learn to use if statements while looping through a list to take specific
+                    actions with selected elements from a list. 
+
+CHAPTER-5: IF Statements
+
+        Introduction:
+                    Programming often involves examining a set of conditions and deciding which action to 
+                    take based on those conditions. Python’s if statement allows you to examine the current
+                    state of a program and respond appro-priately to that state.
+                    
+                    In this chapter, you’ll learn to write conditional tests, which allow you to check any
+                    condition of interest. You’ll learn to write simple if statements, and you’ll learn how
+                    to create a more complex series of if statements to identify when the exact conditions
+                    you want are present. You’ll then apply this concept to lists, so you’ll be able to
+                    write a for loop that handles most items in a list one way but handles certain items
+                    with specific values in a dif-ferent way.
+                    
+
+           
 
