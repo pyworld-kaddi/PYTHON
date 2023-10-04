@@ -1,3 +1,7 @@
+#CHAPTER 4: WORKING WITH LISTS
+#------------------------------
+
+
 #LOOPING THROUGH AN ENTIRE LIST
 
 magicians = ["alice","david","carolina"]

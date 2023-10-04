@@ -1,3 +1,6 @@
+#CHAPTER 3: INTRODUCING LISTS
+#-----------------------------
+
 
 bicycles=['trek','cannodale','redline','specialized']
 print(bicycles)

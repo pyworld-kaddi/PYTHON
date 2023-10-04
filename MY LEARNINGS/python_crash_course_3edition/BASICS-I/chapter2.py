@@ -1,3 +1,6 @@
+#CHAPTER 2: VARIABLES AND SIMPLE DATATYPES
+#------------------------------------------
+
 
 print("HELLO WORLD PYTHON!")
 
