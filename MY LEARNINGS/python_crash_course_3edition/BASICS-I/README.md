@@ -4,10 +4,10 @@ ALL ABOUT CHAPTERS
 CHAPTER-1: getting started
           
         Introduction:
-                   In this chapter, you’ll run your first Python program,hello_world.py.First, you’ll need to check whether a recent version of Python is installed on your computer.
-                   if it isn’t, you’ll install it.You’ll also install a text editor to work with your Python programs. 
-                   Text editors recognize Python code and highlight sections as you write,
-                   making it easy to understand your code’s structure.
+                   In this chapter, you’ll run your first Python program,hello_world.py. First, you’ll need to check whether
+                   a recent version of Python is installed on your computer. if it isn’t, you’ll install it.You’ll also install
+                   a text editor to work with your Python programs.Text editors recognize Python code and highlight sections
+                   as you write, making it easy to understand your code’s structure.
         
         Summary:
                     In this chapter, you learned a bit about Python in general, 
