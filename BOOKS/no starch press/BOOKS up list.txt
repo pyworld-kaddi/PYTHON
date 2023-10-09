@@ -1,0 +1,255 @@
+Automate the Boring Stuff with Python, 2nd Edition
+Practical Programming for Total Beginners
+By Al Sweigart
+November 2019 $39.99
+
+
+Beyond the Basic Stuff with Python Cover
+Beyond the Basic Stuff with Python
+Best Practices for Writing Clean Code
+By Al Sweigart
+December 2020 $34.95
+
+
+Black Hat Python 2nd Edition Cover
+Black Hat Python, 2nd Edition
+Python Programming for Hackers and Pentesters
+By Justin Seitz and Tim Arnold
+April 2021 $44.99
+
+
+Cracking Codes with Python
+Cracking Codes with Python
+An Introduction to Building and Breaking Ciphers
+By Al Sweigart
+January 2018 $29.95
+
+
+
+Dead Simple Python
+Idiomatic Python for the Impatient Programmer
+By Jason C. McDonald
+October 2022 $59.99
+
+
+Dive Into Algorithms Cover
+Dive Into Algorithms
+A Pythonic Adventure for the Intrepid Beginner
+By Bradford Tuckfield
+January 2021 $39.95
+
+
+Dive Into Data Science cover
+Dive Into Data Science
+Use Python to Tackle Your Toughest Business Challenges
+By Bradford Tuckfield
+April 2023 $39.99
+
+
+Doing Math with Python
+Doing Math with Python
+Use Programming to Explore Algebra, Statistics, Calculus, and More!
+By Amit Saha
+August 2015 $29.99
+
+
+Elements of Data Science placeholder cover
+Elements of Data Science
+By Allen B. Downey
+October 2023 $49.99
+
+
+Gray Hat Python
+Gray Hat Python
+Python Programming for Hackers and Reverse Engineers
+By Justin Seitz
+April 2009 $39.95
+
+
+Hardcore Programming for Mechanical Engineers
+Hardcore Programming for Mechanical Engineers
+Build Engineering Applications from Scratch
+By Angel Sola Orbaiceta
+June 2021 $59.99
+
+
+Impractical Python Projects
+Impractical Python Projects
+Playful Programming Activities to Make You Smarter
+By Lee Vaughan
+November 2018 $29.95
+
+
+Invent Your Own Computer Games with Python
+Invent Your Own Computer Games with Python, 4th Edition
+By Al Sweigart
+December 2016 $29.99
+
+
+Learn Python Visually Front Cover
+Learn Python Visually
+Creative Coding with Processing.py
+By Tristan Bunn
+April 2021 $49.99
+
+
+Learn to Code By Solving Problems cover
+Learn to Code by Solving Problems
+A Python Programming Primer
+By Daniel Zingaro
+June 2021 $34.99
+
+
+Learn to Program with Minecraft
+Learn to Program with Minecraft
+Transform Your World with the Power of Python
+By Craig Richardson
+December 2015 $29.95
+
+
+Make Python Talk Cover
+Make Python Talk
+Build Apps with Voice Control and Speech Recognition
+By Mark Liu
+August 2021 $39.99
+
+
+Math Adventures with Python
+Math Adventures with Python
+An Illustrated Guide to Exploring Math with Code
+By Peter Farrell
+January 2019 $29.99
+
+
+Mission Python
+Mission Python
+Code a Space Adventure Game!
+By Sean McManus
+October 2018 $29.99
+
+
+Modeling and Simulation in Python cover
+Modeling and Simulation in Python
+An Introduction for Scientists and Engineers
+By Allen B. Downey
+March 2023 $39.99
+
+
+Natural Language Processing Using Python
+Natural Language Processing with Python and spaCy
+A Practical Introduction
+By Yuli Vasiliev
+April 2020 $39.95
+
+
+Object-Oriented Python Cover
+Object-Oriented Python
+Master OOP by Building Games and GUIs
+By Irv Kalb
+December 2021 $44.99
+
+
+Practical Deep Learning Cover
+Practical Deep Learning
+A Python-Based Introduction
+By Ronald T. Kneusel
+March 2021 $59.95
+
+
+Python Crash Course 3rd Edition Cover
+Python Crash Course, 3rd Edition
+A Hands-On, Project-Based Introduction to Programming
+By Eric Matthes
+December 2022 $44.99
+
+
+Python Flash Cards
+Python Flash Cards
+Syntax, Concepts, and Examples
+By Eric Matthes
+January 2019 $27.95
+
+
+Python for Data Science cover
+Python for Data Science
+A Hands-On Introduction
+By Yuli Vasiliev
+June 2022 $29.99
+
+
+Python for Kids, 2nd Edition Cover
+Python for Kids, 2nd Edition
+A Playful Introduction to Programming
+By Jason R. Briggs
+October 2022 $34.99
+
+
+Python One-Liners
+Python One-Liners
+Write Concise, Eloquent Python Like a Professional
+By Christian Mayer
+April 2020 $39.95
+
+
+Python Playground, 2nd Edition Cover
+Python Playground, 2nd Edition
+Geeky Projects for the Curious Programmer
+By Mahesh Venkitachalam
+September 2023 $44.99
+
+
+Python Tools for Scientists Cover
+Python Tools for Scientists
+An Introduction to Using Anaconda, JupyterLab, and Python's Scientific Libraries
+By Lee Vaughan
+November 2022 $49.99
+
+
+Real-World Python cover
+Real-World Python
+A Hacker's Guide to Solving Problems with Code
+By Lee Vaughan
+November 2020 $34.95
+
+
+Serious Python
+Serious Python
+Black-Belt Advice on Deployment, Scalability, Testing, and More
+By Julien Danjou
+December 2018 $34.95
+
+
+Teach Your Kids to Code
+Teach Your Kids to Code
+A Parent-Friendly Guide to Python Programming
+By Bryson Payne
+April 2015 $29.95
+
+
+The Art of Clean Code
+The Art of Clean Code
+Best Practices to Eliminate Complexity and Simplify Your Life
+By Christian Mayer
+June 2022 $29.99
+
+
+The Big Book of Small Python Projects
+The Big Book of Small Python Projects
+81 Easy Practice Programs
+By Al Sweigart
+June 2021 $39.99
+
+
+The Book of Dash Cover
+The Book of Dash
+Build Dashboards with Python and Plotly
+By Adam Schroeder, Christian Mayer, and Ann Marie Ward
+September 2022 $34.99
+
+
+The Book of Recursion Cover
+The Recursive Book of Recursion
+Ace the Coding Interview with Python and JavaScript
+By Al Sweigart
+July 2022 $39.99
+
